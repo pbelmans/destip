@@ -302,4 +302,8 @@ h4 { margin-bottom: 0; }
 @media (min-width: 800px) { div.three-columns { display: flex; }
   div.three-columns div { width: 33%; } }
 
+div.trigger { text-align: left; }
+
+div.trigger a.page-link { margin-left: 0; }
+
 /*# sourceMappingURL=main.css.map */
